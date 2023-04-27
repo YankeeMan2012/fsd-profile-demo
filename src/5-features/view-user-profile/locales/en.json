@@ -1,0 +1,10 @@
+{
+  "viewUserProfile": {
+    "title": "User profile",
+    "avatar": "Avatar",
+    "name": "Name",
+    "email": "Email",
+    "age": "Age",
+    "gender": "Gender"
+  }
+}

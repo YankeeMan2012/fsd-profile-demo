@@ -1,0 +1,11 @@
+{
+  "editUserProfile": {
+    "title": "Edit user profile",
+    "avatar": "Avatar",
+    "name": "Name",
+    "email": "Email",
+    "age": "Age",
+    "gender": "Gender",
+    "send": "Send"
+  }
+}
